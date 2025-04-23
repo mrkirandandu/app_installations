@@ -1,0 +1,32 @@
+payload details: go to alfresco share open any document from the folder and pick uuid and browse from nodebrowser and not the key value combination and then try to hit the alfresco.
+
+nodeType	fms:VCFINAL_DOCSTORE
+isfile	TRUE
+apll:documentTitle	Test_Eds.docx
+fms:referenceNumber	18624
+fms:voyageNumber	249137
+fms:loadportCD	SHA
+cm:title	Test_Eds.docx
+fms:countryCode	pc
+fms:documentType	BLTR
+fms:customerCode	BP_HEMA
+fms:referenceTypeCode	BOOKING
+fileData	Test_Eds.docx
+fms:customerAcctCategory	R1
+fms:docProcessedStatus	N
+
+
+Metadata via PostMan,	Metadata via App,	Value
+fms:Voyage_NUM,	fms:Voyage_NUM,	508657
+fms:loadPortCD,	fms:loadPortCD,	HPZ
+cm:title,	cm:title,	YAT
+fms:country,	fms:country,	NV
+fms:vnrDocumentType,	fms:vnrDocumentType,	OBL
+fms:customer,	fms:customer,	OUTDOR
+fms:vnrReferenceTypeCode,	fms:vnrReferenceTypeCode,	BILL
+fms:vnrSourceApp,	fms:vnrSourceApp,	RPA, GSP
+nodeType,	nodeType,	fms:VNR_DOCSTORE
+isfile,	TRUE,	Any file
+apll:documentTitle,	apll:documentTitle,	D5695432622.PDF
+fms:referenceNumber,	fms:referenceNumber,	D5695432622
+fileData,	fileData,	Any file
